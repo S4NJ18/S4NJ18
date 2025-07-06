@@ -1,12 +1,12 @@
 ### 👋 Hello and Welcome!
 
-I'm **Sanjib Mondal**, a passionate backend developer currently focused on learning and building with **Node.js**. I believe in writing clean, maintainable code and constantly improving through curiosity and collaboration.
+I'm **Sanjib Mondal**, a passionate full-stack developer currently focused on learning and building with **Node.js**. I believe in writing clean, maintainable code and constantly improving through curiosity and collaboration.
 
 ---
 
 #### 🚀 What I'm Currently Doing
 - 🌱 Deep diving into **Node.js**, **Express**, and **MongoDB**
-- 🧠 Exploring scalable backend architectures and API design
+- 🧠 Exploring scalable full-stack architectures and API design
 - 🛠️ Building full-stack projects with **React**, **Next.js**, and **Tailwind CSS**
 
 ---
@@ -28,7 +28,7 @@ I'm **Sanjib Mondal**, a passionate backend developer currently focused on learn
 ---
 
 #### 💡 I'm Interested In:
-- Collaborating on **backend-heavy** or **API-based** projects
+- Collaborating on **full-stack** or **API-based** projects
 - Learning more about **DevOps**, **cloud platforms**, and **microservices**
 - Working with developers who value **clean code** and **team growth**
 
